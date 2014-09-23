@@ -1,0 +1,24 @@
+{
+  "name": "angular-sprintf",
+  "main": "angular-sprintf.js",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "description": "sprintf filters for AngularJS",
+  "keywords": [
+    "angular",
+    "sprintf"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-sprintf",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sprintf": "~1.0.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "node": true,
+  "browser": true,
+  "esnext": true,
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "immed": true,
+  "latedef": true,
+  "noarg": true,
+  "quotmark": "single",
+  "undef": true,
+  "unused": true,
+  "trailing": true,
+  "laxbreak": true,
+  "smarttabs": true,
+  "globals": {
+    "_": false,
+    "angular": false,
+    "Spinner": false
+  }
+}
